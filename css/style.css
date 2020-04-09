@@ -33,8 +33,11 @@ background-size: 300px 300px;
     color:white;
     text-shadow: 5px 2px 4px black;
     background-size:cover ;
-    font-size: 22px;
-    letter-spacing: 10px;
+    font-size: 20px;
+    background: rgb(171,191,213);
+background: linear-gradient(0deg, rgba(171,191,190,1) 0%, rgba(240,242,231,1) 51%, rgba(154,168,168,1) 100%);
+
+/*     letter-spacing: 10px; */
 }
 
 .heading{
