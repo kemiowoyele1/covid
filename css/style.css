@@ -48,8 +48,7 @@ background-size: 300px 300px;
   margin-bottom: 10px;
 }
 .show{
-    padding:5px;
-    color: rgba(5,25,65,1);
+     color: rgba(5,25,65,1);
     margin: 0;
      background-size:cover;
     text-shadow:1px 1px 1px black;
@@ -97,7 +96,7 @@ background: linear-gradient(0deg, rgba(171,191,190,1) 0%, rgba(240,242,231,1) 51
     color: #eff;
      text-shadow:1px 1px 1px black;
    background-size:cover ;
-    font-size: 20px;
-/*    letter-spacing: 2px; */
+    font-size: 30px;
+  /*    letter-spacing: 2px; */
 }
 
