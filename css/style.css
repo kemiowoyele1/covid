@@ -33,15 +33,15 @@ background-size: 300px 300px;
     color:white;
     text-shadow: 5px 2px 4px black;
     background-size:cover ;
-    font-size: 30px;
-    letter-spacing: 20px;
+    font-size: 22px;
+    letter-spacing: 10px;
 }
 
 .heading{
     /*background-color:#0000ff;*/
 }
 .more{
-    font-size: 30px;
+    font-size: 18px;
     color: powderblue;
      text-shadow:1px 1px 1px black;
   margin-bottom: 10px;
@@ -52,11 +52,11 @@ background-size: 300px 300px;
      background-size:cover;
     text-shadow:1px 1px 1px black;
     text-align:center;
-    font-size: 30px;
+    font-size: 18px;
     padding: 10px;
     /*text-decoration:underline ;*/
     font-family: 'Bree Serif', serif;
-    letter-spacing:1px;
+/*     letter-spacing:1px; */
     /*border: 1px solid peru;*/
    background: rgb(171,191,213);
 background: linear-gradient(0deg, rgba(171,191,190,1) 0%, rgba(240,242,231,1) 51%, rgba(154,168,168,1) 100%);
@@ -95,7 +95,7 @@ background: linear-gradient(0deg, rgba(171,191,190,1) 0%, rgba(240,242,231,1) 51
     color: #eff;
      text-shadow:1px 1px 1px black;
    background-size:cover ;
-    font-size: 30px;
+    font-size: 20px;
   /*    letter-spacing: 2px; */
 }
 
