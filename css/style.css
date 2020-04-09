@@ -35,7 +35,7 @@ background-size: 300px 300px;
     text-shadow: 5px 2px 4px black;
     background-size:cover ;
     font-size: 30px;
-    letter-spacing: 25px;
+    letter-spacing: 20px;
 }
 
 .heading{
@@ -98,6 +98,6 @@ background: linear-gradient(0deg, rgba(171,191,190,1) 0%, rgba(240,242,231,1) 51
      text-shadow:1px 1px 1px black;
    background-size:cover ;
     font-size: 20px;
-   letter-spacing: 2px;
+/*    letter-spacing: 2px; */
 }
 
