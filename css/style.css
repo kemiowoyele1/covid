@@ -20,7 +20,6 @@ background-size: 300px 300px;
        width: 100vw;
           background: rgba(5,15,50,0.9);
  color: #aaf;
- min-height: 300vh;
     z-index: 50;
     position: absolute;
     overflow: hidden;
