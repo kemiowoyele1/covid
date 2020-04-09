@@ -103,3 +103,6 @@ background: linear-gradient(0deg, rgba(171,191,190,1) 0%, rgba(240,242,231,1) 51
   /*    letter-spacing: 2px; */
 }
 
+li{
+ list-style: none;
+}
